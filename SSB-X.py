@@ -848,7 +848,5 @@ def cutter():
     
 def removef():
         os.system('rm -rf self.file');print(f'\n{R}Files Removed Successfully ...')
-        FAIZO(allkey)            
- 
-
+        FAIZO(allkey)     
 sarfaraz()
